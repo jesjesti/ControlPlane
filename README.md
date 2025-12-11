@@ -1,7 +1,6 @@
 # 🚀 ControlPlane
 
-ControlPlane is a learning and experimentation environment built to explore **Kubernetes from scratch to advanced**, using a real-world full-stack application (Spring Boot backend + React frontend).  
-It acts as a **personal cloud-native playground** for understanding deployments, scaling, load testing, observability, CI/CD, and more — all running locally on **Minikube**.
+ControlPlane is a learning and experimentation environment built to explore **Kubernetes from scratch to advanced**, using a real-world full-stack application (Spring Boot backend + React frontend). Since our primary goal is to explore Kubernetes features and capabilities, we are not focusing on the application development aspects (server or client). Therefore, we will create a minimal Spring Boot server and a basic React client, without emphasizing design principles, development best practices, or security standards. It acts as a **personal cloud-native playground** for understanding deployments, scaling, load testing, observability, CI/CD, and more — all running locally on **Minikube**.
 
 ## 🧭 Table of Contents
 
